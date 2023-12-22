@@ -24,7 +24,7 @@ exports['devyn-pulse']:AddTarget(vec3(-463.39, 185.55, 94.4), {
     },
     {
         label = "Test 2",
-        serverr = "pulse:server"
+        server = "pulse:server"
     },
 })
 ```
