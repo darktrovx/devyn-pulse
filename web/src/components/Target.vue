@@ -32,7 +32,6 @@
     .target {
         width: auto;
         height: auto;
-        opacity: 0.4;
         position: absolute;
         transform: translate(-50%, 0%);
         transition: scale 150ms ease-in, filter 150ms ease-in;
